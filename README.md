@@ -1,2 +1,2 @@
-# zhouhongyi19971010-qq.com
+# a trial
 shufe-course-sharing
