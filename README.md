@@ -2,7 +2,7 @@
 
 ## Preface
 
-（前言与[lib-pku/libpku](https://github.com/lib-pku/libpku/)一样，引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
+（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
@@ -15,7 +15,7 @@
 我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。
 
 ## Contribution
-（部分引用自[lib-pku/libpku](https://github.com/lib-pku/libpku/）
+（部分引用自[lib-pku/libpku](https://github.com/lib-pku/libpku/)）
 
 **欢迎贡献！**
 
